@@ -248,7 +248,7 @@
     
 </head>
 
-<body id="root" class="theme__hacker">
+<body id="root" class="theme__dark">
     <script>
         var localTheme = localStorage.getItem('theme');
             if (localTheme) {
@@ -280,11 +280,11 @@
       
         
         <a href="#" class="dropdown-item select-theme__item is-active">
-          hacker
+          dark
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
-          dark
+          hacker
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
@@ -339,11 +339,11 @@
       
         
         <a href="#" class="dropdown-item select-theme__item is-active">
-          hacker
+          dark
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
-          dark
+          hacker
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
@@ -1009,7 +1009,7 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
 
     if (lib && lib.includes('mermaid')) {
       
-      var themeVariant = localStorage.getItem('theme') || JSON.parse("\"hacker\"");
+      var themeVariant = localStorage.getItem('theme') || JSON.parse("\"dark\"");
 
       if (themeVariant === "dark" || themeVariant === "hacker") {
         mermaid.initialize({ theme: 'dark' });
