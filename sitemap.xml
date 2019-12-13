@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://shellmates.github.io/</loc>
-    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/about/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,11 +138,6 @@
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/about/</loc>
-    <lastmod>2019-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shellmates.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
@@ -238,12 +238,12 @@
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/categories/hugo/</loc>
+    <loc>https://shellmates.github.io/tags/hugo/</loc>
     <lastmod>2017-10-11T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/tags/hugo/</loc>
+    <loc>https://shellmates.github.io/categories/hugo/</loc>
     <lastmod>2017-10-11T10:33:41+09:00</lastmod>
   </url>
   
@@ -255,76 +255,6 @@
   <url>
     <loc>https://shellmates.github.io/notes/hugo/syntax-highlight/</loc>
     <lastmod>2017-10-11T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/blogging/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/categories/ctest/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/development/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/fast/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/go/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/series/go-web-dev/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/notes/sublist/note-1/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/notes/sublist/note-2/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/notes/sublist/note-3/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/notes/sublist/go/go-1/go-1-1/go-1/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/notes/sublist/go/go-1/go-2/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/notes/sublist/go/go-4/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/notes/sublist/go/go-1/go-1-1/go-1-1-1/go-5/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/notes/sublist/</loc>
-    <lastmod>2012-10-09T11:44:14+09:00</lastmod>
   </url>
   
   <url>
