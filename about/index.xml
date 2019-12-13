@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writeups on Shellmates Blog</title>
-    <link>https://shellmates.github.io/writeups/</link>
-    <description>Recent content in Writeups on Shellmates Blog</description>
+    <title>About on Shellmates Blog</title>
+    <link>https://shellmates.github.io/about/</link>
+    <description>Recent content in About on Shellmates Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
     <webMaster>zzossig@gmail.com (zzossig)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://shellmates.github.io/writeups/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://shellmates.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     

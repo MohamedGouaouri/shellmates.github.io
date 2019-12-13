@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shellmates.github.io/</loc>
+    <loc>https://shellmates.github.io/about/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/about/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <loc>https://shellmates.github.io/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,231 +38,24 @@
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/categories/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/pt/dir/fourth/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/pt/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/series/</loc>
-    <lastmod>2019-11-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/pt/third/</loc>
-    <lastmod>2019-11-30T20:46:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/pt/second/</loc>
-    <lastmod>2019-11-30T20:45:24+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/pt/first/</loc>
-    <lastmod>2019-11-30T19:45:20+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/categories/diagram/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/test-viz/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/test-wavedrom/</loc>
-    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/test-chartjs/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/test-js-sequence-diagrams/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/diagram/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/test-mermaid/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/categories/math/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/test-mathjax/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/test-katext/</loc>
-    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/test-flowchart/</loc>
-    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shellmates.github.io/writeups/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/writeups/_index.ko/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/amoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/bamoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/gamoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/namoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/hugo/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/categories/hugo/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
+    <loc>https://shellmates.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://shellmates.github.io/notes/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/notes/hugo/syntax-highlight/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
+    <loc>https://shellmates.github.io/pt/</loc>
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/posts/_index.ko/</loc>
+    <loc>https://shellmates.github.io/series/</loc>
   </url>
   
 </urlset>
