@@ -1,14 +1,5 @@
 [
 {
-	"uri": "https://shellmates.github.io/about/",
-	"title": "About",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "Shellmates&#39; club about page",
-	"content": "Shellmates Club We are an Algerian students group that are passionate about computer security and computer science.\n"
-},
-{
 	"uri": "https://shellmates.github.io/",
 	"title": "",
 	"tags": [],
@@ -16,6 +7,132 @@
 	"series": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/tags/command-injection/",
+	"title": "command injection",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/categories/documentation/",
+	"title": "documentation",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/tags/documentation/",
+	"title": "documentation",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/posts/",
+	"title": "Posts",
+	"tags": ["index"],
+	"categories": [],
+	"series": [],
+	"description": "Post page",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/tags/sql/",
+	"title": "sql",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/tags/sql-injection/",
+	"title": "sql injection",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/tags/ssti/",
+	"title": "ssti",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/tags/web/",
+	"title": "web",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/categories/web/",
+	"title": "web",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/tags/web-exploitation/",
+	"title": "web exploitation",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://shellmates.github.io/posts/web-exploitation-documentation/",
+	"title": "Web Exploitation Documentation",
+	"tags": ["web", "documentation", "web exploitation", "sql", "sql injection", "ssti", "command injection"],
+	"categories": [],
+	"series": [],
+	"description": "This list is for anyone wishing to learn about web application security but do not have a starting point.",
+	"content": "Awesome Web Hacking This list is for anyone wishing to learn about web application security but do not have a starting point.\nBooks 1 -\nThe first book is a small introduction to the concept of Internet, web pages, What an IP is, what's a proxy and what are web queries? You can find the link below.\nWeb Exploitation - How to become an online spider\n2 - SQL Injection Attacks and Defense\nDocumentation  Open Web Application Security Project Penetration Testing Execution Standard Dr. Thorsten Schneider’s Binary Auditing Application Security Wiki is an initiative to provide all Application security related resources to Security Researchers and developers at one place.  "
+},
+{
+	"uri": "https://shellmates.github.io/about/",
+	"title": "About",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Shellmates&#39; club about page",
+	"content": "Shellmates Club We are an Algerian students group that are passionate about computer security and computer science.\n"
 },
 {
 	"uri": "https://shellmates.github.io/tags/misc/",
@@ -45,24 +162,6 @@
 	"content": ""
 },
 {
-	"uri": "https://shellmates.github.io/posts/",
-	"title": "Posts",
-	"tags": ["index"],
-	"categories": [],
-	"series": [],
-	"description": "Post page",
-	"content": ""
-},
-{
-	"uri": "https://shellmates.github.io/tags/",
-	"title": "Tags",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://shellmates.github.io/writeups/",
 	"title": "Writeups",
 	"tags": [],
@@ -70,15 +169,6 @@
 	"series": [],
 	"description": "Writeups Page",
 	"content": "writeups page\n"
-},
-{
-	"uri": "https://shellmates.github.io/categories/",
-	"title": "Categories",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
 },
 {
 	"uri": "https://shellmates.github.io/notes/",

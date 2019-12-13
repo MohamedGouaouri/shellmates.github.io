@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on Shellmates Blog</title>
+    <link>https://shellmates.github.io/tags/sql/</link>
+    <description>Recent content in sql on Shellmates Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 13 Dec 2019 19:53:01 +0100</lastBuildDate>
+    
+        <atom:link href="https://shellmates.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Web Exploitation Documentation</title>
+        <link>https://shellmates.github.io/posts/web-exploitation-documentation/</link>
+        <pubDate>Fri, 13 Dec 2019 19:53:01 +0100</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>https://shellmates.github.io/posts/web-exploitation-documentation/</guid>
+        <description>Awesome Web Hacking This list is for anyone wishing to learn about web application security but do not have a starting point.
+Books 1 -
+The first book is a small introduction to the concept of Internet, web pages, What an IP is, what&#39;s a proxy and what are web queries? You can find the link below.
+Web Exploitation - How to become an online spider
+2 - SQL Injection Attacks and Defense</description>
+      </item>
+      
+    
+  </channel>
+</rss>

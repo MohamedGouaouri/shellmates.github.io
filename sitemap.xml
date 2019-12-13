@@ -3,13 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shellmates.github.io/about/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <loc>https://shellmates.github.io/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/</loc>
-    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+    <loc>https://shellmates.github.io/categories/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/tags/command-injection/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/categories/documentation/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/tags/documentation/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/posts/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/tags/sql/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/tags/sql-injection/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/tags/ssti/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/tags/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/tags/web/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/categories/web/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/tags/web-exploitation/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/posts/web-exploitation-documentation/</loc>
+    <lastmod>2019-12-13T19:53:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shellmates.github.io/about/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +93,8 @@
   </url>
   
   <url>
-    <loc>https://shellmates.github.io/posts/</loc>
-    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/tags/</loc>
-    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shellmates.github.io/writeups/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shellmates.github.io/categories/</loc>
   </url>
   
   <url>
